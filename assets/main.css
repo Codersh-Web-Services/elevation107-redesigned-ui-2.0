@@ -972,14 +972,14 @@ form .form-control {
   }
 
   .feedback svg#right {
-    right: 12rem;
+    right: 14rem;
     top: auto;
     bottom: -6.7rem;
     right: 0;
   }
 
   .feedback svg#left {
-    right: 6.4rem;
+    right: 10rem;
     top: auto;
     bottom: -6.7rem;
   }
