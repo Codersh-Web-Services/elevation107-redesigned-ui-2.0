@@ -426,11 +426,13 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 25px;
     text-transform: uppercase;
     margin-bottom: 0;
+    color: #fff;
 }
 
 .feedback-title h4 {
     font-weight: 400;
     font-size: 25px;
+    color: #fff;
 }
 
 .feedback-title .vertical-lines {
