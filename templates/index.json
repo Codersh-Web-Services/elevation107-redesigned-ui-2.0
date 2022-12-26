@@ -34,12 +34,18 @@
       "type": "home-quality-section",
       "settings": {
       }
+    },
+    "21d5e7b4-fcb2-4c1f-844e-485a11bcf5e0": {
+      "type": "home-our-blog",
+      "settings": {
+      }
     }
   },
   "order": [
     "ecbfb039-2ada-4908-a4eb-bd4bf8402f7a",
     "multicolumn",
     "5154fde1-3345-48f1-9da6-de58ce202f34",
-    "37998d4f-7b0b-4144-a938-6364b7cbed3d"
+    "37998d4f-7b0b-4144-a938-6364b7cbed3d",
+    "21d5e7b4-fcb2-4c1f-844e-485a11bcf5e0"
   ]
 }
