@@ -562,7 +562,26 @@ h1,h2,h3,h4,h5,h6 {
 /* <-------- ACCESSORIES SECTION END --------> */
 
 .quality {
-/*     margin-bottom: 5rem; */
+    position: relative;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+}
+
+.ski-man-wrap {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 50%;
+    right: 0;
+    bottom: 0;
+    content: '';
+    height: 100%;
+}
+
+.ski-man-wrap img {
+    width: 100%;
+    height: 100%;
 }
 
 .quality h3 {
