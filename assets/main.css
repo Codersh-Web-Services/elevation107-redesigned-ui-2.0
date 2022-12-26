@@ -846,6 +846,7 @@ form .form-control {
 
 .footer-links .more-detail:hover {
  text-decoration: none;
+  color: #fff;
 }
 
 .form-control:focus {
