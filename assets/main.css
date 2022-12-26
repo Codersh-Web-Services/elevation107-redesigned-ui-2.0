@@ -219,7 +219,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .summer-sale svg {
     position: absolute;
-    top: -85px;
+    top: -69px;
     cursor: pointer;
     transition: all .35s ease-in-out;
 }
