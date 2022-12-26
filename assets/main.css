@@ -841,6 +841,11 @@ form .form-control {
 
 .footer-links .more-detail {
   font-size: 13px;
+  transition: all .3s ease;
+}
+
+.footer-links .more-detail:hover {
+  color: #BD000E;
 }
 
 .form-control:focus {
