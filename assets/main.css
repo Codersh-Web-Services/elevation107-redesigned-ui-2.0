@@ -717,6 +717,10 @@ h6 {
   font-weight: 600;
 }
 
+.text-container .mt-4 {
+  margin-top: 3rem;
+}
+
 /* <-------- OUR BLOG SECTION END --------> */
 
 .check-out {
