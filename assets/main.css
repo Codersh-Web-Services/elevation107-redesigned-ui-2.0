@@ -353,7 +353,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .content-img .inner-container-1 {
-    background: url('../images/shadow-1.png') left top no-repeat;
+    background: url('https://cdn.shopify.com/s/files/1/0354/3269/3819/files/shadow-1.png') left top no-repeat;
     background-color: #fff;
     box-shadow: 0.1rem 1rem 1rem 0.8rem #00000024;
     padding: 3rem 0;
@@ -361,7 +361,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .content-img .inner-container-2 {
-    background: url('../images/shadow-2.png') left top no-repeat;
+    background: url('https://cdn.shopify.com/s/files/1/0354/3269/3819/files/shadow-2.png?') left top no-repeat;
     background-color: #fff;
     box-shadow: 0.1rem 1rem 1rem 0.8rem #00000024;
     padding: 3rem 0;
@@ -369,7 +369,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .content-img .inner-container-3 {
-    background: url('../images/shadow-3.png') left top no-repeat;
+    background: url('https://cdn.shopify.com/s/files/1/0354/3269/3819/files/shadow-3.png') left top no-repeat;
     background-color: #fff;
     box-shadow: 0.1rem 1rem 1rem 0.8rem #00000024;
     padding: 3rem 0;
