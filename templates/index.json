@@ -15,8 +15,18 @@
       "settings": {
       }
     },
-    "5154fde1-3345-48f1-9da6-de58ce202f34": {
-      "type": "home-buying-guide",
+    "b989ec51-4948-40f5-966f-3e4e2b8a5198": {
+      "type": "home-accessories-section",
+      "settings": {
+      }
+    },
+    "602a4fa6-30d8-45d0-990b-57dadc76af67": {
+      "type": "home-summer-sale-range",
+      "settings": {
+      }
+    },
+    "7a6363ac-5997-4a40-aadb-bc60449fde38": {
+      "type": "home-feedback-section",
       "settings": {
       }
     },
@@ -25,8 +35,18 @@
       "settings": {
       }
     },
+    "5154fde1-3345-48f1-9da6-de58ce202f34": {
+      "type": "home-buying-guide",
+      "settings": {
+      }
+    },
     "21d5e7b4-fcb2-4c1f-844e-485a11bcf5e0": {
       "type": "home-our-blog",
+      "settings": {
+      }
+    },
+    "66bd136c-9845-41cb-9183-4c5a5619e237": {
+      "type": "home-check-out",
       "settings": {
       }
     }
@@ -35,8 +55,12 @@
     "ecbfb039-2ada-4908-a4eb-bd4bf8402f7a",
     "7093dccd-41fa-4fb9-b591-9ea4e936c56d",
     "cd2841d8-f418-41f8-b9a2-ec04ab62081c",
-    "5154fde1-3345-48f1-9da6-de58ce202f34",
+    "b989ec51-4948-40f5-966f-3e4e2b8a5198",
+    "602a4fa6-30d8-45d0-990b-57dadc76af67",
+    "7a6363ac-5997-4a40-aadb-bc60449fde38",
     "37998d4f-7b0b-4144-a938-6364b7cbed3d",
-    "21d5e7b4-fcb2-4c1f-844e-485a11bcf5e0"
+    "5154fde1-3345-48f1-9da6-de58ce202f34",
+    "21d5e7b4-fcb2-4c1f-844e-485a11bcf5e0",
+    "66bd136c-9845-41cb-9183-4c5a5619e237"
   ]
 }
