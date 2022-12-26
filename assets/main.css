@@ -841,11 +841,11 @@ form .form-control {
 
 .footer-links .more-detail {
   font-size: 13px;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
 }
 
 .footer-links .more-detail:hover {
- text-decoration: none;
+  text-decoration: none;
   color: #fff;
 }
 
@@ -898,6 +898,22 @@ form .form-control {
 @media only screen and (max-width: 1024px) {
   .quality {
     height: 81vh;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .input-group .form-control {
+    width: 100%;
+    font-size: 0.75rem;
+    padding: 0.8rem 0.2rem;
+    border-radius: 10px !important;
+    margin-bottom: 0.5rem;
+  }
+
+  .input-group .cta-btn.red {
+    text-align: center;
+    width: 100%;
+    border-radius: 10px !important;
   }
 }
 
