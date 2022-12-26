@@ -839,6 +839,10 @@ form .form-control {
   font-weight: 500;
 }
 
+.footer-links .call a {
+  font-size: 13px;
+}
+
 .form-control:focus {
   background-color: #fff;
   border-color: #bd000e;
