@@ -10,6 +10,11 @@
       "settings": {
       }
     },
+    "cd2841d8-f418-41f8-b9a2-ec04ab62081c": {
+      "type": "home-contact-section",
+      "settings": {
+      }
+    },
     "5154fde1-3345-48f1-9da6-de58ce202f34": {
       "type": "home-buying-guide",
       "settings": {
@@ -29,6 +34,7 @@
   "order": [
     "ecbfb039-2ada-4908-a4eb-bd4bf8402f7a",
     "7093dccd-41fa-4fb9-b591-9ea4e936c56d",
+    "cd2841d8-f418-41f8-b9a2-ec04ab62081c",
     "5154fde1-3345-48f1-9da6-de58ce202f34",
     "37998d4f-7b0b-4144-a938-6364b7cbed3d",
     "21d5e7b4-fcb2-4c1f-844e-485a11bcf5e0"
