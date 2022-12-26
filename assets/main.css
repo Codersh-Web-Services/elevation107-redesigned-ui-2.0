@@ -12,6 +12,11 @@ body {
     font-size: 15px;
 }
 
+.img-wrap img {
+  height: auto;
+  max-width: 100%;
+}
+
 .announcement-bar {
     background-color: #bd000e;
     padding: 0.5rem 0 0.2rem 0;
