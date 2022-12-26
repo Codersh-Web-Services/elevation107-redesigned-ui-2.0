@@ -673,7 +673,13 @@ h6 {
 }
 
 .our-blog h3 {
+  font-size: 3rem;
   margin-bottom: 3rem;
+}
+
+.our-blog b {
+  font-size: 3rem;
+ font-weight: 900;
 }
 
 .our-blog h5 {
