@@ -168,10 +168,11 @@ h1,h2,h3,h4,h5,h6 {
 
 .cta-btn.red {
     text-decoration: none;
+    text-transform: capitalize;
     background: #BD000E;
-    padding: 0.7rem 2rem;
+    padding: 1rem 2rem;
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 500;
     border-radius: 10px;
     transition: all .35s ease-in-out;
