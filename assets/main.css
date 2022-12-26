@@ -258,6 +258,10 @@ body {
     cursor: pointer;
 }
 
+.sale-content>a {
+    text-decoration: none;
+}
+
 .sale-content p {
     margin-bottom: 0;
 }
@@ -554,7 +558,7 @@ body {
 /* <-------- ACCESSORIES SECTION END --------> */
 
 .quality {
-    margin-bottom: 5rem;
+/*     margin-bottom: 5rem; */
 }
 
 .quality h3 {
@@ -624,6 +628,8 @@ body {
 
 .comments span {
     font-size: 14px;
+    color: #999999;
+    font-weight: 600;
 }
 
 /* <-------- OUR BLOG SECTION END --------> */
@@ -713,6 +719,12 @@ body {
     transform: translateY(-4px);
 }
 
+.social-link li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .social-link a i {
     font-size: 18px;
     color: #fff;
@@ -736,4 +748,8 @@ form .form-control {
     background-color: #fff;
     border-color: #BD000E;
     box-shadow: none;
+}
+
+	.input-group .cta-btn.red:hover {
+    transform: none;
 }
