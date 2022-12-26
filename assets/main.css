@@ -799,3 +799,414 @@ form .form-control {
         height: 81vh;
     }
 }
+
+@media only screen and (max-width: 768px) {
+
+    .hero-section .content {
+        padding: 1rem;
+    }
+
+    .banner-slider .img-wrap img {
+        margin-top: 3rem;
+    }
+
+    .brands .cta-btn.red {
+        margin-bottom: 2rem;
+    }
+
+    .product .product-images {
+        display: none;
+    }
+
+    .form-icons-group {
+        right: 80px;
+        gap: 12px;
+    }
+
+    .feedback {
+        padding: 4rem 0 3rem 0;
+    }
+
+    .feedback .feedback-slider::before {
+        height: 80px;
+        width: 80px;
+        top: -28px;
+        left: 45px;
+    }
+
+    .feedback .feedback-slider::after {
+        height: 80px;
+        width: 80px;
+      right: 40px;
+      bottom: -38px;
+    }
+
+    .feedback .feedback-title {
+        margin-bottom: 1rem;
+    }
+
+    .feedback-title .cta-btn {
+        float: left;
+        margin-top: 1rem;
+    }
+
+    .feedback-title .vertical-lines {
+        right: 74px;
+        top: 25px;
+    }
+
+    .feedback svg#right {
+        right: 14rem;
+        top: auto;
+        bottom: -4.2rem;
+        right: 0;
+    }
+
+    .feedback svg#left {
+        right: 6.4rem;
+        top: auto;
+        bottom: -4.2rem;
+    }
+
+    .summer-sale .cta-btn {
+        float: left;
+    }
+
+    .summer-sale .virtical-lines {
+        right: 76px;
+        top: 12px;
+    }
+
+    .summer-sale svg#right {
+        right: 30px;
+        top: auto;
+        bottom: -40px;
+    }
+
+    .summer-sale svg#left {
+        right: 125px;
+        top: auto;
+        bottom: -40px;
+    }
+    .quality {
+        height: auto;
+        margin: 3rem 0;
+    }
+
+    .ski-man img {
+       height: auto;
+       max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+    .banner-slider .content {
+        padding: 1rem;
+    }
+
+    .banner-slider .img-wrap img {
+        margin-top: 3rem;
+    }
+
+    .banner-slider svg#left {
+        left: -43%;
+        top: 68%;
+        z-index: 1;
+    }
+
+    .banner-slider svg#right {
+        right: -43%;
+        top: 68%;
+    }
+
+    .accessories-content span {
+        font-size: 14px;
+    }
+
+    .summer-sale .cta-btn {
+        float: left;
+    }
+
+    .summer-sale svg#left {
+        right: 141px;
+        top: auto;
+        bottom: -41px;
+    }
+
+    .summer-sale .virtical-lines {
+        right: 92px;
+    }
+
+    .summer-sale svg#right {
+        top: auto;
+        right: 58px;
+        bottom: -41px;
+    }
+
+    .feedback .feedback-slider::before,
+    .feedback .feedback-slider::after {
+        content: none;
+    }
+
+    .feedback-title .cta-btn {
+        float: left;
+        margin-top: 1.5rem;
+    }
+
+    .feedback {
+        padding: 2.5rem 0 1.5rem 0;
+    }
+
+    .feedback .feedback-title {
+        margin-bottom: 1.5rem;
+    }
+
+    .feedback svg#right {
+        right: 1.3rem;
+        top: auto;
+        bottom: -4.8rem;
+    }
+
+    .feedback-title .vertical-lines {
+        right: 90px;
+        top: 34px;
+    }
+
+    .feedback svg#left {
+        right: 7.1rem;
+        top: auto;
+        bottom: -4.8rem;
+    }
+
+    .accessories-title .cta-btn {
+        float: left;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+
+    .banner-slider .content b {
+        padding-left: 1rem;
+    }
+
+    .banner-slider .content h1,
+    .content .rating {
+        padding-left: 1rem;
+    }
+
+    .content .cta-btn {
+        margin-left: 1rem;
+    }
+
+
+    .banner-slider .img-wrap {
+        margin-top: 2rem;
+    }
+
+    .brands {
+        padding: 2.5rem 0;
+    }
+
+    .brand-text {
+        margin-bottom: 2rem;
+    }
+
+    .brands .img-wrap {
+        margin-bottom: 1rem;
+    }
+
+    .summer-sale {
+        padding: 2.5rem 0;
+    }
+
+    .summer-sale svg {
+        position: absolute;
+        top: -69px;
+        cursor: pointer;
+    }
+
+    .summer-sale svg#left {
+        right: 90px;
+    }
+
+    .summer-sale svg#right {
+        right: 20px;
+    }
+
+    .summer-sale .virtical-lines {
+        right: 64px;
+        top: 10px;
+    }
+
+    .contact {
+        padding: 2.5rem 0 10rem 0;
+    }
+
+    .accessories {
+        padding: 2.6rem 0 1rem 0;
+    }
+
+    .accessories-title h4 {
+        margin-bottom: 1.5rem;
+    }
+
+    .accessories-title .cta-btn {
+        float: left;
+    }
+
+    .feedback {
+        padding: 2.5rem 0 5rem 0;
+    }
+
+    .feedback .feedback-title {
+        display: flex;
+        align-items: center;
+        color: #fff;
+        margin-bottom: 2.5rem;
+    }
+
+    .feedback svg {
+        top: -5.7rem;
+    }
+
+    .feedback .feedback-slider::before {
+        height: 75px;
+        width: 75px;
+        top: -45px;
+        left: 25px;
+    }
+
+    .feedback .feedback-slider::after {
+        height: 75px;
+        width: 75px;
+        bottom: -39px;
+        right: 35px;
+    }
+
+    .quality {
+        margin-bottom: 1rem;
+    }
+
+    .our-blog {
+        padding: 2.5rem 0;
+    }
+
+    .our-blog h3 {
+        margin-bottom: 1rem;
+    }
+
+    /* <-------- CATEGORY PAGE CSS STARTS --------> */
+
+    .summer-sale svg {
+        top: auto;
+        bottom: -35px;
+    }
+
+    .summer-sale svg#left {
+        right: 90px;
+    }
+
+    .summer-sale .virtical-lines {
+        right: 52px;
+        top: 13px;
+    }
+
+    .summer-sale svg#right {
+        right: 23px;
+    }
+    .banner-slider .img-wrap img {
+        margin: 1.5rem 0 2.5rem 0;
+    }
+
+    .feedback {
+        padding: 2.5rem 0 2.5rem 0;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+
+    .cta-btn {
+        padding: 0.7rem 1.5rem;
+    }
+
+    .summer-sale svg {
+        top: auto;
+        bottom: -35px;
+        height: 25px;
+    }
+
+    .summer-sale svg#left {
+        right: 76px;
+    }
+
+    .summer-sale .virtical-lines {
+        right: 43px;
+        top: 10px;
+    }
+
+    .summer-sale svg#right {
+        right: 12px;
+    }
+
+    .feedback {
+        padding: 2.5rem 0 1rem 0;
+    }
+
+    .feedback-title h3 {
+        font-size: 20px;
+    }
+
+    .feedback-title h4 {
+        font-size: 20px;
+        margin-top: 0.5rem;
+    }
+
+    .feedback .slide-content {
+        margin: 0 1rem;
+    }
+
+    .feedback .feedback-slider::before,
+    .feedback .feedback-slider::after {
+        content: none;
+    }
+
+    .feedback-title .cta-btn {
+        float: left;
+        margin-top: 2rem;
+    }
+
+    .cta-btn.red {
+        padding: 0.7rem 1.5rem;
+    }
+
+    .feedback-title .vertical-lines {
+        right: 60px;
+        top: auto;
+        bottom: 9px;
+    }
+
+    .feedback svg {
+        top: auto;
+        height: 25px;
+    }
+
+    .feedback svg#left {
+        bottom: -4.2rem;
+        right: 4.6rem;
+    }
+
+    .feedback svg#right {
+        right: 0;
+        bottom: -4.2rem;
+    }
+
+    .accessories-content span {
+        font-size: 10px;
+    }
+
+    .banner-slider .img-wrap img {
+        margin-top: 1.5rem;
+    }
+}
