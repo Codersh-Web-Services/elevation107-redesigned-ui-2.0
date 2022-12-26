@@ -621,8 +621,9 @@ h6 {
 }
 
 .quality p {
-  font-size: 13px;
-  font-weight: 400;
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin-bottom: 1.5rem;
 }
 
 .quality p a {
