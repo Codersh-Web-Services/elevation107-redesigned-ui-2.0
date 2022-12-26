@@ -718,7 +718,7 @@ h6 {
 }
 
 .text-container .mt-4 {
-  margin-top: 3rem;
+  margin-top: 3rem !important;
 }
 
 /* <-------- OUR BLOG SECTION END --------> */
