@@ -718,7 +718,7 @@ h6 {
 }
 
 .text-container .mt-4 {
-margin-top: 3rem !important;
+  margin-top: 3rem !important;
 }
 
 /* <-------- OUR BLOG SECTION END --------> */
@@ -764,6 +764,7 @@ margin-top: 3rem !important;
   margin-bottom: 2rem;
   font-size: 18px;
   font-weight: 700;
+  color: #fff;
 }
 
 .footer-links .menu-links {
