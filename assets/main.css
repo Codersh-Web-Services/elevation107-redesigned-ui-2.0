@@ -851,8 +851,8 @@ form .form-control {
 
 .form-control:focus {
   background-color: #fff;
-  border-color: #bd000e;
-  box-shadow: none;
+  border-color: #bd000e !important;
+  box-shadow: none !important;
 }
 
 .input-group .cta-btn.red:hover {
