@@ -399,6 +399,13 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom: 0.2rem;
 }
 
+.content-img b {
+    Font-weight: 700;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #001F1C;
+}
+
 /* <-------- CONTACT SECTION END --------> */
 
 .feedback {
