@@ -845,7 +845,7 @@ form .form-control {
 }
 
 .footer-links .more-detail:hover {
-  color: #BD000E;
+ text-decoration: none;
 }
 
 .form-control:focus {
