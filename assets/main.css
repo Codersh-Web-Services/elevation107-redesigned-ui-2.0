@@ -170,6 +170,20 @@ body {
     color: #005953;
 }
 
+.banner-slider svg#left,
+.banner-slider svg#right {
+    position: absolute;
+    fill: #bd000e;
+    top: 50%;
+    cursor: pointer;
+}
+.banner-slider svg#left {
+    left: -64%;
+}
+.banner-slider svg#right {
+    right: -64%;
+}
+
 /* <-------- HERO SECTION END --------> */
 
 .brands {
