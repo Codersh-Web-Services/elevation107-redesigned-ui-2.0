@@ -753,3 +753,49 @@ form .form-control {
 	.input-group .cta-btn.red:hover {
     transform: none;
 }
+
+/* MEDIA QUERY START  */
+@media only screen and (max-width: 1600px) {
+    .banner-slider svg#left {
+        left: -55%;
+    }
+
+    .banner-slider svg#right {
+        right: -55%;
+    }
+}
+
+
+@media only screen and (max-width: 1400px) {
+    .banner-slider svg#left {
+        left: -52%;
+    }
+
+    .banner-slider svg#right {
+        right: -52%;
+    }
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    .quality .ski-wrap img {
+        height: auto;
+        max-width: 100%;
+    }
+
+    .banner-slider svg#left {
+        left: -54%;
+    }
+
+    .banner-slider svg#right {
+        right: -54%;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .quality {
+        height: 81vh;
+    }
+}
