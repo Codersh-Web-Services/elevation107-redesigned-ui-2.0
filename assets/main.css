@@ -675,9 +675,11 @@ h6 {
 .our-blog h3 {
   font-size: 3rem;
   margin-bottom: 3rem;
+  color: #001F1C;
 }
 
 .our-blog b {
+  color: #001F1C;
   font-size: 3rem;
  font-weight: 800;
 }
