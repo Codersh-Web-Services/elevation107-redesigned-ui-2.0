@@ -512,7 +512,7 @@ h1,h2,h3,h4,h5,h6 {
 .feedback svg {
     position: absolute;
     fill: #fff;
-    top: -7.90rem;
+    top: -9.6rem;
     height: 60px;
     width: 60px;
     cursor: pointer;
@@ -525,11 +525,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .feedback svg#right {
-    right: 14rem;
+    right: 21.5rem;
 }
 
 .feedback svg#left {
-    right: 20rem;
+    right: 32.5rem;
 }
 
 
