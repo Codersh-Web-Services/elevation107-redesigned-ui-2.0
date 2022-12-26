@@ -761,7 +761,8 @@ h6 {
 }
 
 .footer .address span {
-  font-size: 20px;
+  font-size: 17px;
+  font-weight: 500;
 }
 
 .footer-links h5 {
@@ -787,6 +788,8 @@ h6 {
 
 .footer .call a {
   text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
 }
 
 .social-link {
