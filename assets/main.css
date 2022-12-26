@@ -675,13 +675,13 @@ h6 {
 .our-blog h3 {
   font-size: 3rem;
   margin-bottom: 3.5rem;
-  color: #001F1C;
+  color: #001f1c;
 }
 
 .our-blog b {
-  color: #001F1C;
+  color: #001f1c;
   font-size: 3rem;
- font-weight: 800;
+  font-weight: 800;
 }
 
 .our-blog h5 {
@@ -708,6 +708,7 @@ h6 {
 .comments i {
   color: #bd000e;
   margin-right: 0.5rem;
+  font-size: 1.25rem;
 }
 
 .comments span {
