@@ -1017,10 +1017,6 @@ form .form-control {
 
 @media only screen and (max-width: 480px) {
 
-  .hero-section {
-    padding-top: 1rem;
-  }
-
   .hero-section h1 {
     font-size: 3rem;
   }
