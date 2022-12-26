@@ -618,6 +618,11 @@ h6 {
 .quality h3 {
   font-weight: 700;
   font-size: 3rem;
+  color: #001f1c;
+}
+
+.quality h4 {
+  color: #001f1c;
 }
 
 .quality p {
