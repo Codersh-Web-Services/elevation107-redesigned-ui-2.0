@@ -54,6 +54,11 @@
       "type": "new-footer",
       "settings": {
       }
+    },
+    "a440375b-6b62-4f3a-b9e0-0a53103cb53a": {
+      "type": "checkout-page",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -67,6 +72,7 @@
     "5154fde1-3345-48f1-9da6-de58ce202f34",
     "21d5e7b4-fcb2-4c1f-844e-485a11bcf5e0",
     "66bd136c-9845-41cb-9183-4c5a5619e237",
-    "302a2654-9189-4491-8a48-514c8fcc1c41"
+    "302a2654-9189-4491-8a48-514c8fcc1c41",
+    "a440375b-6b62-4f3a-b9e0-0a53103cb53a"
   ]
 }
