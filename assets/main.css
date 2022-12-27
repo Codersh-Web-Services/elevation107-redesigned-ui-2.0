@@ -746,7 +746,7 @@ h6 {
 /* <-------- CHECK OUT SECTION END --------> */
 
 .footer {
-  padding: 7rem 0;
+  padding: 7rem 0 5rem 0;
   background-color: #005953;
   color: #fff;
 }
@@ -858,6 +858,16 @@ form .form-control {
 
 .input-group .cta-btn.red:hover {
   transform: none;
+}
+
+.copyright {
+  padding: 1rem 0;
+  background-color: #bd000e;
+}
+
+.copyright p {
+  font-size: 1.5rem;
+  color: #fff;
 }
 
 /* MEDIA QUERY START  */
@@ -1021,11 +1031,10 @@ form .form-control {
 }
 
 @media only screen and (max-width: 480px) {
-
   .hero-section h1 {
     font-size: 3rem;
   }
-  
+
   .banner-slider .content {
     padding: 1rem;
   }
@@ -1248,11 +1257,10 @@ form .form-control {
 }
 
 @media only screen and (max-width: 320px) {
-
-    .hero-section h1 {
+  .hero-section h1 {
     font-size: 2.2rem;
   }
-  
+
   .cta-btn {
     padding: 0.7rem 1.5rem;
   }
