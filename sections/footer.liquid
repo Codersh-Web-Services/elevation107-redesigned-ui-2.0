@@ -28,7 +28,7 @@
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script src="{{ 'custom.js' | asset_url }}" defer="defer"></script>
 
-{%- style -%}
+<!-- {%- style -%}
   .footer {
     margin-top: {{ section.settings.margin_top | times: 0.75 | round: 0 }}px;
   }
@@ -48,7 +48,7 @@
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
   }
-{%- endstyle -%}
+{%- endstyle -%} -->
 <!--  
 <footer class="footer color-{{ section.settings.color_scheme }} gradient section-{{ section.id }}-padding">
   {%- if section.blocks.size > 0 or section.settings.newsletter_enable or section.settings.show_social -%}
