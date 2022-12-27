@@ -1,10 +1,5 @@
 {
   "sections": {
-    "9a0f752c-9a34-457d-a1ca-3e68b68303e1": {
-      "type": "checkout-page",
-      "settings": {
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -15,7 +10,6 @@
     }
   },
   "order": [
-    "9a0f752c-9a34-457d-a1ca-3e68b68303e1",
     "main"
   ]
 }
