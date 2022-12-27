@@ -665,6 +665,10 @@ h6 {
   top: -65px;
 }
 
+.buying-guide .cta-btn:hover {
+  background-color: #bd000e;
+}
+
 /* <-------- BUYING GUIDE SECTION END --------> */
 
 .our-blog {
