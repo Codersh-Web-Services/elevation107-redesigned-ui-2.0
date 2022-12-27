@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1e7ccd2b-3efd-4e43-b04b-f79924024db3": {
+      "type": "checkout-page",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1e7ccd2b-3efd-4e43-b04b-f79924024db3"
+  ]
+}
